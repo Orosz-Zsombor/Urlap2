@@ -1,0 +1,10 @@
+caption{
+    text-align: left;
+}
+
+#submit{
+    background-color: orange;
+    border: none;
+    width:65px;
+    height:30px;
+}
